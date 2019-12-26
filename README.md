@@ -5,7 +5,7 @@ El objetivo es aprender a hacer los ejercicios, ignorando en mayor o menor medid
 
 
 ## EJERCICIOS REALIZADOS:
-*1. Constante de Kaprekar*
-2.
-*3. Cifrado Cesar*
+**1. Constante de Kaprekar**
+
+**3. Cifrado Cesar**
 
