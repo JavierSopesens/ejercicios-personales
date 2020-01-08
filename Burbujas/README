@@ -1,0 +1,10 @@
+En que consiste este programa?
+
+Esto es un proyecto para programar un Bubble Sort:
+
+Tubos de 4 unidades con cuatro bolas de colores en su interior que el usuario tiene que ordenar: 
+
+Como?
+Las bolas aparecen de forma aleatoria, existiendo un tubo sin bolas. 
+El usuario puede mover las bolas superiores a un tubo vacío 
+o a lo alto de otro tubo con bolas del mismo color siempre y cuando no esté ya lleno. 
